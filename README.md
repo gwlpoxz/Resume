@@ -1,5 +1,5 @@
 # 潘冠伶(Gwen Pan)
-___
+
 Education:南臺科技大學 / 資訊管理系<br>
 Location: Tainan City<br>
 E-mail: gwenlyn.pan@gmail.com<br>
@@ -8,7 +8,7 @@ Mobile: 0908-780-157<br>
 
 
 ### 專業技能
-___
+
 ●使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法。<br>
 ●MySQL分析繪製E-R Model、規劃Table Schema，以及利用SQL關聯式資料庫進行資料查詢及處理。<br>
 ●Visual studio 利用C#語言撰寫Windows Forms App(.Net Framework)。<br>
@@ -17,7 +17,7 @@ ___
 
 
 ### 作品集
-___
+
 # 股價查詢系統
 
 ![圖片名稱](圖片url)
