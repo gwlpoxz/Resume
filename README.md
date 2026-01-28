@@ -44,5 +44,30 @@ __使用爬蟲抓取台灣公開股價頁資料存入資料庫後， 撰寫php�
 └── logs/                    #存放執行日誌
     └── crawler_error.log     # 記錄 Python 執行失敗的 Traceback
 ```
+# [web手寫數字辨識](https://github.com/gwlpoxz/Stock_Price_System)
+
+![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/index.png)
+__結合deep Learning、computer vision、web開發的專案，
+透過訓練卷積神經網路CNN，並使用 **Flask** 搭建後端 API來辨識手寫數字，
+利用簡易互動式web介面，使用者可以即時塗鴉書寫 0-9 的數字，
+系統就會透過後端的 PyTorch模型進行即時分類就能辨識結果。__
+
++ 核心技術
++ 深度學習框架: PyTorch
++ 後端框架: Flask (Python)
++ 前端技術: HTML5 Canvas, CSS3, JavaScript
++ 圖像處理: Pillow (PIL), Torchvision__
+
+```text
+mnist-web-app/
+├── app.py                # Flask 後端主程式
+├── train.py              # CNN 模型訓練腳本
+├── mnist_cnn.pth         # 訓練完成的模型權重檔
+├── templates/            # 存放 HTML 檔案
+│   └── index.html        # 前端網頁主體
+└── static/               # 存放 CSS 與 JS 靜態檔案
+    ├── style.css         # 網頁樣式 (對應你的 staticstyle.css)
+    └── main.js           # 畫布互動與 API 呼叫邏輯
+```
 
 
