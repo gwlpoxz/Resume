@@ -47,7 +47,7 @@ __使用爬蟲抓取台灣公開股價頁資料存入資料庫後， 撰寫php�
 # [web手寫數字辨識](https://github.com/gwlpoxz/mnist-web-app)
 
 ![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/mnist.png)
-__結合deep Learning、computer vision、web開發的專案，
+__結合deep Learning、computer vision、web開發的專案，<br>
 透過訓練卷積神經網路CNN，並使用 **Flask** 搭建後端 API來辨識手寫數字，
 利用簡易互動式web介面，使用者可以即時塗鴉書寫 0-9 的數字，
 系統就會透過後端的 PyTorch模型進行即時分類就能辨識結果。__
