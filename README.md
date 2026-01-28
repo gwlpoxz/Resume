@@ -78,5 +78,43 @@ mnist-web-app/
     ├── style.css         # 網頁樣式 (對應staticstyle.css)
     └── main.js           # 畫布互動與 API 呼叫邏輯
 ```
+# [SoundTravel_Andoid APP]()
 
+![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/soundtravel.jpg)
+__利用爬蟲爬取公開網站JSON應用<br>
+點擊台灣地圖位置隨即播放當地生態園區聲音<br>__
+
+#### 程式碼重點
++ 每當網路取得文字時
+ + 確定回應代碼OK=200
+    - 存入變數解碼後的Json
+    - 複製內容存入allData
+    - 隨機選擇清單項目存入selectdata
+    - 讀取關鍵字資料存入selectmp3
+
+```text
+/stock_analysis_system (專案根目錄)
+│
+├── config/                  # 系統配置與環境設定
+│   └── db.php                # 資料庫連線與 Session 初始化
+│
+├── public/                  # Web 進入點與前端視圖 (UI)
+│   ├── index.php             # 系統主控儀表板
+│   ├── login.php             # 使用者登入頁面
+│   ├── register.php          # 新使用者註冊頁面
+│   ├── forgot.php            # 密碼重設引導頁
+│   └── logout.php            # 登出與 Session 銷毀
+│
+├── api/                     # 處理特定請求的後端服務
+│   └── export_handler.php    # 負責 Excel 報表生成與下載流
+│
+├── core_scripts/            # 數據處理核心 (ETL)
+│   ├── twse_sync.py          # Python 爬蟲與數據同步引擎
+│   └── run_stock_crawler.bat # Windows 環境啟動批次檔
+│
+└── logs/                    #存放執行日誌
+    └── crawler_error.log     # 記錄 Python 執行失敗的 Traceback
+```
+<br>
+<br>
 
