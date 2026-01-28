@@ -4,8 +4,8 @@
 + Location: Tainan City
 +  E-mail: gwenlyn.pan@gmail.com
 + Mobile: 0908-780-157
-
-
+<br>
+***
 ### 專業技能
 
 + 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法。
