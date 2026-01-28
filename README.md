@@ -44,6 +44,9 @@ __使用爬蟲抓取台灣公開股價頁資料存入資料庫後， 撰寫php�
 └── logs/                    #存放執行日誌
     └── crawler_error.log     # 記錄 Python 執行失敗的 Traceback
 ```
+<br>
+<br>
+
 # [web手寫數字辨識](https://github.com/gwlpoxz/mnist-web-app)
 
 ![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/mnist.png)
@@ -67,7 +70,7 @@ mnist-web-app/
 ├── templates/            # 存放 HTML 檔案
 │   └── index.html        # 前端網頁主體
 └── static/               # 存放 CSS 與 JS 靜態檔案
-    ├── style.css         # 網頁樣式 (對應你的 staticstyle.css)
+    ├── style.css         # 網頁樣式 (對應staticstyle.css)
     └── main.js           # 畫布互動與 API 呼叫邏輯
 ```
 
