@@ -4,11 +4,13 @@ Education:南臺科技大學 / 資訊管理系
 Location: Tainan City
 E-mail: gwenlyn.pan@gmail.com
 Mobile: 0908-780-157
-
-# 專業技能
+```
+### 專業技能
 ```text
-使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
+●使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法。
+●MySQL分析繪製E-R Model、規劃Table Schema，以及利用SQL關聯式資料庫進行資料查詢及處理。
+●Visual studio 利用C#語言撰寫Windows Forms App(.Net Framework)。
+●使用爬蟲更新資料庫內容。
+```
+### 作品集
 
-- 列點1
-- 列點2
-- 列點3
