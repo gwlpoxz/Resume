@@ -1,5 +1,5 @@
 # 潘冠伶(Gwen Pan)
-
+---
 　* Education:南臺科技大學 / 資訊管理系<br>
 　* Location: Tainan City<br>
 　* E-mail: gwenlyn.pan@gmail.com<br>
