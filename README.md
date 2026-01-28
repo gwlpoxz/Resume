@@ -19,6 +19,7 @@
 # [股價查詢系統](https://github.com/gwlpoxz/Stock_Price_System)
 
 ![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/index.png)
+__使用爬蟲抓取台灣公開股價頁資料存入資料庫後， 撰寫php顯示在網頁中__
 
 ```text
 /stock_analysis_system (專案根目錄)
