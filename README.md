@@ -1,4 +1,4 @@
-<img width="400" height="88" alt="image" src="https://github.com/user-attachments/assets/cc3204a9-c003-4daf-82f9-eb5c7b8842d1" /># 潘冠伶(Gwen Pan)
+# 潘冠伶(Gwen Pan)
 
 + Education:南臺科技大學 / 資訊管理系
 + Location: Tainan City
