@@ -49,7 +49,7 @@ __使用爬蟲抓取台灣公開股價頁資料存入資料庫後， 撰寫php�
 
 # [web手寫數字辨識](https://github.com/gwlpoxz/mnist-web-app)
 
-![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/mnist.png)
+<img src="https://github.com/gwlpoxz/Resume/blob/main/mnist.png" width="400" alt="Sound Travel">
 <br>
 __結合deep Learning、computer vision、web開發的專案，<br>
 透過訓練卷積神經網路CNN，並使用 **Flask** 搭建後端 API來辨識手寫數字，<br>
@@ -92,17 +92,17 @@ __利用爬蟲爬取公開網站JSON應用<br>
 
 #### 程式碼重點
 + (1)依續建立地點清單、GPS位置、政府公開平台資訊網址
-    - 設定4個空清單存放讀取網站資料
+    設定4個空清單存放讀取網站資料
 + (2)每當地點被點選時:
-    - 取得變數清單內容
-    - 放大地圖至17
-    - 網路資料GET
+    取得變數清單內容
+    放大地圖至17
+    網路資料GET
 + (3)每當網路取得文字時
-    - 確定回應代碼OK=200
-    - 存入變數解碼後的Json
-    - 複製內容存入allData
-    - 隨機選擇清單項目存入selectdata
-    - 讀取關鍵字資料存入selectmp3
+    確定回應代碼OK=200
+    存入變數解碼後的Json
+    複製內容存入allData
+    隨機選擇清單項目存入selectdata
+    讀取關鍵字資料存入selectmp3
 <br>
 <br>
 
