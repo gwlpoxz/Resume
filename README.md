@@ -56,11 +56,16 @@ __結合deep Learning、computer vision、web開發的專案，<br>
 利用簡易互動式web介面，使用者可以即時塗鴉書寫 0-9 的數字，<br>
 系統就會透過後端的 PyTorch模型進行即時分類就能辨識結果。__
 <br>
+## 功能特色
+- **手寫畫布**：支援滑鼠與觸控操作，提供直覺的手寫體驗。
+- **即時辨識**：後端載入預訓練的 CNN 模型，辨識準確率高。
+- **響應式設計**：介面簡潔，適配多種螢幕尺寸。
+
 + 核心技術
-+ 深度學習框架: PyTorch
++ 深度學習框架: PyTorchs,Torchvision
 + 後端框架: Flask (Python)
 + 前端技術: HTML5 Canvas, CSS3, JavaScript
-+ 圖像處理: Pillow (PIL), Torchvision__
++ 圖像處理: Pillow (PIL), Torchvision__, NumPy
 
 ```text
 mnist-web-app/
