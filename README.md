@@ -5,6 +5,8 @@ Location: Tainan City<br>
 E-mail: gwenlyn.pan@gmail.com<br>
 Mobile: 0908-780-157<br>
 ***
+
+
 ### 專業技能
 ***
 ●使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法。<br>
@@ -12,10 +14,13 @@ Mobile: 0908-780-157<br>
 ●Visual studio 利用C#語言撰寫Windows Forms App(.Net Framework)。<br>
 ●使用爬蟲更新資料庫內容。<br>
 ***
+
+
 ### 作品集
-# 股價查詢系統
 ***
-<img src="圖片網址" alt="替代文字" width="50%" height="auto" />
+# 股價查詢系統
+
+![圖片名稱](圖片url)
 
 ```text
 /stock_analysis_system (專案根目錄)
