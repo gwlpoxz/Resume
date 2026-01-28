@@ -1,4 +1,4 @@
-# 潘冠伶(Gwen Pan)
+<img width="400" height="88" alt="image" src="https://github.com/user-attachments/assets/cc3204a9-c003-4daf-82f9-eb5c7b8842d1" /># 潘冠伶(Gwen Pan)
 
 + Education:南臺科技大學 / 資訊管理系
 + Location: Tainan City
@@ -85,7 +85,11 @@ __利用爬蟲爬取公開網站JSON應用<br>
 點擊台灣地圖位置隨即播放當地生態園區聲音<br>__
 
 #### 程式碼重點
-+ 每當網路取得文字時
++ (2)每當地點被點選時:
+    - 取得變數清單內容
+    - 放大地圖至17
+    - 網路資料GET
++ (3)每當網路取得文字時
  + 確定回應代碼OK=200
     - 存入變數解碼後的Json
     - 複製內容存入allData
