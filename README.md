@@ -4,7 +4,7 @@
 + Location: Tainan City
 +  E-mail: gwenlyn.pan@gmail.com
 + Mobile: 0908-780-157
-<br>
+
 ***
 ### 專業技能
 
