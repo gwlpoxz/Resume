@@ -84,9 +84,8 @@ mnist-web-app/
 # [SoundTravel_Andoid APP]()
 
 
-<a href="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg">
-  <img src="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg" width="400" alt="Sound Travel">
-</a>
+
+<img src="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg" width="400" alt="Sound Travel">
 
 __利用爬蟲爬取公開網站JSON應用<br>
 點擊台灣地圖位置隨即播放當地生態園區聲音<br>__
