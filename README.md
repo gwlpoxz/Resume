@@ -13,7 +13,7 @@ ___
 ●MySQL分析繪製E-R Model、規劃Table Schema，以及利用SQL關聯式資料庫進行資料查詢及處理。<br>
 ●Visual studio 利用C#語言撰寫Windows Forms App(.Net Framework)。<br>
 ●使用爬蟲更新資料庫內容。<br>
-***
+
 
 
 ### 作品集
@@ -45,5 +45,5 @@ ___
 └── logs/                    #存放執行日誌
     └── crawler_error.log     # 記錄 Python 執行失敗的 Traceback
 ```
-***
+
 
