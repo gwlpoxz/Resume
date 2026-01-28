@@ -18,7 +18,7 @@
 ### 作品集
 ####    股價查詢系統
 
-![圖片名稱](圖片url)
+![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/index.png)
 
 ```text
 /stock_analysis_system (專案根目錄)
