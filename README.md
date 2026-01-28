@@ -16,7 +16,7 @@
 
 ---
 ### 作品集
-####    股價查詢系統
+#   股價查詢系統
 
 ![圖片名稱](https://github.com/gwlpoxz/Resume/blob/main/index.png)
 
