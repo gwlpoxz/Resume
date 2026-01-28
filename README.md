@@ -85,7 +85,7 @@ mnist-web-app/
 
 
 <a href="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg">
-  <img src="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg" width="150" alt="Sound Travel">
+  <img src="https://github.com/gwlpoxz/Resume/raw/main/soundtravel.jpg" width="400" alt="Sound Travel">
 </a>
 
 __利用爬蟲爬取公開網站JSON應用<br>
