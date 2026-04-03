@@ -115,6 +115,7 @@ AI 代理人必須在 10000×10000的全域空間中，<br>
 <br>
 <br>
 #### 核心技術
+```
    + 強化學習框架: Stable Baselines3 (SB3), Gymnasium
    + 深度學習底層: PyTorch
    + 強化學習演算法: PPO (Proximal Policy Optimization)
@@ -126,7 +127,7 @@ AI 代理人必須在 10000×10000的全域空間中，<br>
        + 持續學習 (Continual Learning): 權重增量繼承機制
        + 座標映射技術: 全域與局部座標非線性變換 (Global-to-Local Mapping)
        + 獎勵塑造 (Reward Shaping): 距離感應與效率導向之獎勵函數設計
-
+```
 ####專案架構
 ```
    2 ├── rl_human_recorder.py      # [主程式] 專家數據錄製與互動介面
