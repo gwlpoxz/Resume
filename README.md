@@ -105,4 +105,39 @@ __利用爬蟲爬取公開網站JSON應用<br>
     讀取關鍵字資料存入selectmp3<br>
 <br>
 <br>
+# [AI大圖搜索與精準點擊專案](https://github.com/gwlpoxz/WEEK01)
+
+<img src="https://github.com/gwlpoxz/Resume/blob/main/mnist.png" width="400" alt="Sound Travel">
+<br>
+__實作了一套基於 強化學習 (Reinforcement Learning, RL) 的高階觀察者系統。<br>
+AI 代理人必須在 10000×10000的全域空間中，<br>
+透過 800×800的有限局部視窗搜尋動態目標。<br>
+<br>
+<br>
+#### 核心技術
+   + 強化學習框架: Stable Baselines3 (SB3), Gymnasium
+   + 深度學習底層: PyTorch
+   + 強化學習演算法: PPO (Proximal Policy Optimization)
+   + 模擬器與視覺化: Pygame
+   + 數據處理與分析: NumPy, Pandas
+   + 訓練監控技術: TensorBoard (TensorFlow)
+   + 核心架構技術:
+       + 模仿學習 (Imitation Learning): 行為克隆 (Behavioral Cloning)
+       + 持續學習 (Continual Learning): 權重增量繼承機制
+       + 座標映射技術: 全域與局部座標非線性變換 (Global-to-Local Mapping)
+       + 獎勵塑造 (Reward Shaping): 距離感應與效率導向之獎勵函數設計
+
+####專案架構
+```
+   2 ├── rl_human_recorder.py      # [主程式] 專家數據錄製與互動介面
+   3 ├── rl_pretraining.py         # [主程式] 模仿學習預訓練系統 (BC)
+   4 ├── rl_machine_training.py    # [主程式] 機器增量強化訓練系統 (PPO)
+   5 ├── rl_ai_demo.py             # [主程式] AI 成果效能驗證展示介面
+   6 ├── hunter_latest.zip         # [權重] 最終進化之 AI 模型大腦
+   7 ├── pretrained_hunter.zip     # [權重] 模仿人類行為的初期模型
+   8 ├── human_demo/               # [數據] 存放所有人類操作錄製檔 (.npz)
+   9 └── logs/                     # [日誌] 訓練過程數據 (TensorBoard 使用)
+```
+<br>
+<br>
 
