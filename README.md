@@ -105,6 +105,7 @@ __利用爬蟲爬取公開網站JSON應用<br>
     讀取關鍵字資料存入selectmp3<br>
 <br>
 <br>
+
 # [AI大圖搜索與精準點擊專案](https://github.com/gwlpoxz/WEEK01)
 <br>
 實作了一套基於 強化學習 (Reinforcement Learning, RL) 的高階觀察者系統。<br>
