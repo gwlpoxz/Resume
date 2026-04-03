@@ -106,10 +106,8 @@ __利用爬蟲爬取公開網站JSON應用<br>
 <br>
 <br>
 # [AI大圖搜索與精準點擊專案](https://github.com/gwlpoxz/WEEK01)
-
-<img src="https://github.com/gwlpoxz/Resume/blob/main/mnist.png" width="400" alt="Sound Travel">
 <br>
-__實作了一套基於 強化學習 (Reinforcement Learning, RL) 的高階觀察者系統。<br>
+實作了一套基於 強化學習 (Reinforcement Learning, RL) 的高階觀察者系統。<br>
 AI 代理人必須在 10000×10000的全域空間中，<br>
 透過 800×800的有限局部視窗搜尋動態目標。<br>
 <br>
@@ -128,8 +126,8 @@ AI 代理人必須在 10000×10000的全域空間中，<br>
        + 座標映射技術: 全域與局部座標非線性變換 (Global-to-Local Mapping)
        + 獎勵塑造 (Reward Shaping): 距離感應與效率導向之獎勵函數設計
 ```
-####專案架構
-```
+#### 專案架構
+```text
    2 ├── rl_human_recorder.py      # [主程式] 專家數據錄製與互動介面
    3 ├── rl_pretraining.py         # [主程式] 模仿學習預訓練系統 (BC)
    4 ├── rl_machine_training.py    # [主程式] 機器增量強化訓練系統 (PPO)
